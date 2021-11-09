@@ -1,0 +1,16 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": "git@github.com:Mangonando/learning-typescript.git",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "taco": "^1.6.0"
+  }
+}
